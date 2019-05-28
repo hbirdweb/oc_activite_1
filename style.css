@@ -6,5 +6,6 @@ body
 h1
 {
     text-align: center;
-    margin-top: 10em;
+    margin-top: 25vw;
+    font-size: 4em;
 }
